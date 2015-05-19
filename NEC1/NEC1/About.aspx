@@ -3,12 +3,12 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
         <h1><%: Title %>.</h1>
-        <h2>Your app description page.</h2>
+        <h2>Prueba de proyeco Web.</h2>
     </hgroup>
 
     <article>
         <p>        
-            Use this area to provide additional information.
+            Vamos a hacer unos cambios para probar Git.
         </p>
 
         <p>        
